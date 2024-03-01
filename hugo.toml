@@ -1,0 +1,4 @@
+baseURL = 'WonderingNeuron.github.io'
+languageCode = 'en-us'
+title = 'My Python Portfolio Website'
+theme = 'ananke'
